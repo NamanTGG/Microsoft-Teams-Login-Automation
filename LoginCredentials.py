@@ -1,0 +1,2 @@
+userName = 'YourLoginId'
+password = 'YourPassword'
