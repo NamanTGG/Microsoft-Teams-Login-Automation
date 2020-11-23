@@ -5,7 +5,7 @@ Hey Fellow Developers , Today We Will Be Automating The Login - Part Of Microsof
 from selenium import webdriver
 from time import sleep
 import time
-from Credentials import userName,password
+from LoginCredentials import userName,password
 
 driver = webdriver.Chrome()
 
