@@ -1,16 +1,6 @@
 '''
 Hey Fellow Developers , Today We Will Be Automating The Login - Part Of Microsoft Teams Using Python And Selenium
 
-This Is Part 1 Of A Microsoft Teams Automation Series Using Python
-
-Throughout This Series , We Will Automate The Whole Application With Features Such As : Joining Teams , Meetings , Sending Messages etc.
-
-This Series Has Been In The Works For A Long Time
-
-I HATE MY DAD BECAUSE HE IS SUPER MEAN
-
-
-I Will Also Continue Uploading My Normal Type Of Videos On  My Channel
 '''
 from selenium import webdriver
 from time import sleep
