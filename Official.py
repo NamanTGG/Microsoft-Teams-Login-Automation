@@ -13,7 +13,7 @@ driver.get('https://www.microsoft.com/en-in/microsoft-365/microsoft-teams/group-
 
 time.sleep(7)
 
-driver.find_element_by_xpath('//a[@class="c-button f-secondary ow-slide-in ow-slide-in-2 xs-ow-mr-0 ow-mt-10 ow-txt-trans-upper ow-bvr-signin"]').click()
+driver.find_element_by_xpath('/html/body/section/div[1]/div/div/div/section/div/div[2]/div[2]/a').click()
 
 driver.switch_to.window(driver.window_handles[1])#switching to tab 1
 time.sleep(5)
